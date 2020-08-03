@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Oded
+
+![Oded Arbel's Github Stats](https://github-readme-stats.vercel.app/api?username=guss77&show_icons=true)
 
 <!--
 **guss77/guss77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
